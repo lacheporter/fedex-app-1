@@ -1,0 +1,149 @@
+[
+    {
+        "Store": 4405,
+        "Address": "101 Fun Drive",
+        "City": "Newwark",
+        "State": "New Jersey",
+        "Employees": [ {
+            "Id": 1,
+            "name": "Elon Musk",
+            "role": "Delivery"
+        }],
+        "Inventory": {
+            "Boxes": 20,
+            "Packages": 10,
+            "Envelopes": 35
+        }
+    },
+    {
+        "Store": 7604,
+        "Address": "101 Fun Drive",
+        "City": "Newwark",
+        "State": "New Jersey",
+        "Employees": [],
+        "Inventory": {
+            "Boxes": 0,
+            "Packages": 54,
+            "Envelopes": 234
+        }
+    },
+    {
+        "Store": 4302,
+        "Address": "101 Fun Drive",
+        "City": "Columbia",
+        "State": "South Carolina",
+        "Employees": [
+            {
+                "Id": 1,
+                "name": "David Porter",
+                "role": "Inventory Manager"
+            }
+        ],
+        "Inventory": {
+            "Boxes": 37,
+            "Packages": 310,
+            "Envelopes": 547
+        }
+    },
+    {
+        "Store": 2504,
+        "Address": "105 Fun Drive",
+        "City": "Columbia",
+        "State": "South Carolina",
+        "Employees": [
+            {
+                "Id": 1,
+                "name": "Professor Xavier",
+                "role": "Sales Representative"
+            },
+            {
+                "Id": 1,
+                "name": "Kenny Watkins",
+                "role": "Inventory Manager"
+            }
+        ],
+        "Inventory": {
+            "Boxes": 30,
+            "Packages": 140,
+            "Envelopes": 357
+        }
+    },
+    {
+        "Store": 3605,
+        "Address": "445 Nofun Drive",
+        "City": "Columbia",
+        "State": "South Carolina",
+        "Employees": [
+            {
+                "Id": 1,
+                "name": "Charles Barkley",
+                "role": "Sales Manager"
+            }
+        ],
+        "Inventory": {
+            "Boxes": 31,
+            "Packages": 108,
+            "Envelopes": 359
+        }
+    },
+    {
+        "Store": 420,
+        "Address": "67 Fun Drive",
+        "City": "Macen",
+        "State": "Georgia",
+        "Employees": [],
+        "Inventory": {
+            "Boxes": 88,
+            "Packages": 55,
+            "Envelopes": 234
+        }
+    },
+    {
+        "Store": 220,
+        "Address": "45 Pivot Drive",
+        "City": "Lexington",
+        "State": "West Virginia",
+        "Employees": [],
+        "Inventory": {
+            "Boxes": 55,
+            "Packages": 10,
+            "Envelopes": 345
+        }
+    },
+    {
+        "Store": 567,
+        "Address": "143 Happy Avenue",
+        "City": "Lexington",
+        "State": "West Virginia",
+        "Employees": [],
+        "Inventory": {
+            "Boxes": 30,
+            "Packages": 78,
+            "Envelopes": 567
+        }
+    },
+    {
+        "Store": 489,
+        "Address": "89 Fedex Pointe",
+        "City": "Des Moines",
+        "State": "Iowa",
+        "Employees": [],
+        "Inventory": {
+            "Boxes": 90,
+            "Packages": 67,
+            "Envelopes": 768
+        }
+    },
+    {
+        "Store": 440,
+        "Address": "76 Angry Lane",
+        "City": "Fletcher",
+        "State": "North Carolina",
+        "Employees": [],
+        "Inventory": {
+            "Boxes": 23,
+            "Packages": 56,
+            "Envelopes": 10
+        }
+    }
+]
